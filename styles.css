@@ -3,6 +3,7 @@
 body {
     font-family: arial;
     color: #fff;
+    
 }
 
 h1 {
@@ -63,6 +64,9 @@ nav {
     overflow: hidden;
     margin: auto;
 }
+.contenedor_resp_slide {
+    width: 100%;
+}
 
 .contenedor_slide ul {
     display: flex;
@@ -99,19 +103,13 @@ nav {
 
 video {
     height: 400px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    text-align: center;
+    width: 100%;
+    
+    
+    
     
    
 }
-
-
-
-
-
-
-
 
 
 /*footer*/
